@@ -3,4 +3,4 @@ Just a sad corona tracker using Some corona API to fetch the data. This was most
 https://corona-numbers.web.app/
 
 
-![Optional Text](./frontend/src/images/capture.PNG)
+![Optional Text](./frontend/src/Capture.PNG)
